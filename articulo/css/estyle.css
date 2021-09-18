@@ -5,7 +5,9 @@ body{
     color:blueviolet
 }
 .header{
-    background-color: aquamarine;
+    background-color: rgb(122, 35, 115);
+    text-align: center;
+    
 }
 .container{
     width: 700px;
