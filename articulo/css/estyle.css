@@ -4,3 +4,12 @@ body{
 
     color:blueviolet
 }
+.header{
+    background-color: aquamarine;
+}
+.container{
+    width: 700px;
+    text-align: center;
+    padding: auto;
+    border-color: black;
+}
