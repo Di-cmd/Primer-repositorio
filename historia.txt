@@ -7,3 +7,4 @@ voy a mirar que pasa si no hago el commit
 en camara aparece alto, pero en realidad no es alto
 hoy hablaremos de sus vidaa
 
+hola, estoy haciendo un cambio desde git hub
